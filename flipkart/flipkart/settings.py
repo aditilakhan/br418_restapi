@@ -159,3 +159,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = ""  # api client id from google console
 # SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = ""  # api secret
+
+RAZORPAY_KEY_ID='rzp_test_FlpKp3VOLQMQZu'
+RAZORPAY_KEY_SECRET='H7lokV8txQIbqH0yA9CFdKxb'
